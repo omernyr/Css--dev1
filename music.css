@@ -1,0 +1,28 @@
+
+.red {
+    color:crimson;
+}
+
+.purple {
+    color:purple;
+}
+
+.yellow {
+    color:burlywood;
+}
+
+.ort {
+    padding-bottom:60%;
+    list-style-position: inside;
+}
+
+.font {
+        
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.background {
+    background-color:rgb(21, 27, 21);
+}
+
